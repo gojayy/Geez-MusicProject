@@ -149,7 +149,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "📜 Cara Menggunakan BOT 📜", url="https://t.me/Vckyouuu/32"
+                        "📜 Cara Menggunakan BOT 📜", url="https://t.me/xzymusicsupport/11"
                     )
                 ]
             ]
@@ -168,10 +168,10 @@ async def reload(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Group Support", url=f"https://t.me/GeezSupportGroup"
+                        "Panduan", url=f"https://t.me/xzymusicsupport"
                     ),
                     InlineKeyboardButton(
-                        "Created By", url=f"https://t.me/VckyouuBitch"
+                        "Created By", url=f"https://t.me/yohiniges"
                     )
                 ]
             ]
